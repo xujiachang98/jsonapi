@@ -1,0 +1,24 @@
+.idea*
+.DS_Store
+.venv*
+
+# Ignore all binary files
+*.[aA][bB][iI]
+*.[oO]
+*.[sS][oO]
+*.pyc
+
+# Ignore 'data' files generated when executing a binary
+data/
+
+# Exclude build and dist directories
+/build/
+/dist/
+
+# Exclude .pyc and .pytest_cache files
+*.pyc
+.pytest_cache/
+
+# Exclude .egg-info directories
+*.egg-info/
+

@@ -2,12 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## Added
+- setup.py is added for packaging and distribution
 
-## [1.0.0] - YYYY-MM-DD
-- Feature 1 description
-- Feature 2 description
-- Bugfix 1 description
+## Changed
+- jsonapi and correseponding test are structured as requested
 
-[Unreleased]: https://github.com/your-project-url/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/your-project-url/releases/tag/v1.0.0
+
+## [0.0.1] - 2023-09-21
+- Inital release
